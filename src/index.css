@@ -54,7 +54,7 @@ button {
   padding: 12px 24px;
   font-size: 16px;
   color: #ffffff;
-  background-color: #e84f20;
+  background-color: #207de8;
   border: none;
   border-radius: 8px;
   box-shadow: 0 2px 5px 1px rgba(222, 210, 210, 1);
@@ -65,14 +65,14 @@ button {
 }
 
 button:hover {
-  background-color: #fd3800;
+  background-color: #0019fd;
   box-shadow: 1px 1px 5px 1px rgba(245, 230, 230, 1);
   transform: translateY(-2px);
   border-color: #f6f6f6;
 }
 
 button:active {
-  background-color: #a64d2d;
+  background-color: #2d98a6;
   box-shadow: 0 1px 5px 1px rgba(255, 252, 252, 1);
   transform: translateY(0);
 }
@@ -90,7 +90,7 @@ input {
 }
 
 input:focus {
-  border-color: #e84f20;
+  border-color: #20b9e8;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
 
